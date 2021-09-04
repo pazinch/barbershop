@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3396eb69-f99f-4c52-9c04-59c740f74642" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -20,6 +19,31 @@
   <component name="Git.Settings">
     <option name="PREVIEW_PUSH_PROTECTED_ONLY" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1630756439" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="master" />
+                    <option name="lastUsedInstant" value="1630756438" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
   </component>
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
@@ -59,7 +83,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="prettierjs.PrettierConfiguration.Package" value="D:\Meizu\projects\barbershop\node_modules\prettier" />
-    <property name="settings.editor.selected.configurable" value="configurable.stylesheets.stylelint" />
+    <property name="settings.editor.selected.configurable" value="sshConsole" />
   </component>
   <component name="SvnConfiguration">
     <configuration>C:\Users\ADMIN\AppData\Roaming\Subversion</configuration>
@@ -73,7 +97,7 @@
       <updated>1630688189990</updated>
       <workItem from="1630688191347" duration="1902000" />
       <workItem from="1630746428441" duration="453000" />
-      <workItem from="1630746894432" duration="8814000" />
+      <workItem from="1630746894432" duration="9570000" />
     </task>
     <servers />
   </component>
@@ -116,9 +140,9 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="548" y="193" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1630751083661" />
-    <state x="465" y="118" key="SettingsEditor" timestamp="1630751087817">
+    <state x="465" y="118" key="SettingsEditor" timestamp="1630756549604">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="465" y="118" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1630751087817" />
+    <state x="465" y="118" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1630756549604" />
   </component>
 </project>
