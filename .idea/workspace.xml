@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3396eb69-f99f-4c52-9c04-59c740f74642" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,7 +53,7 @@
     <auto-save>true</auto-save>
   </component>
   <component name="ProjectId" id="1xdc1KlbDjogz11VWQ8tToQcUYl" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -83,7 +84,12 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="prettierjs.PrettierConfiguration.Package" value="D:\Meizu\projects\barbershop\node_modules\prettier" />
-    <property name="settings.editor.selected.configurable" value="sshConsole" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="windows-1251" />
+    <option name="myConnectionType" value="CURRENT_VAGRANT" />
+    <option name="myConnectionId" value="" />
   </component>
   <component name="SvnConfiguration">
     <configuration>C:\Users\ADMIN\AppData\Roaming\Subversion</configuration>
@@ -97,7 +103,10 @@
       <updated>1630688189990</updated>
       <workItem from="1630688191347" duration="1902000" />
       <workItem from="1630746428441" duration="453000" />
-      <workItem from="1630746894432" duration="9570000" />
+      <workItem from="1630746894432" duration="10751000" />
+      <workItem from="1630757751018" duration="297000" />
+      <workItem from="1630758087122" duration="4000" />
+      <workItem from="1630758113736" duration="2371000" />
     </task>
     <servers />
   </component>
@@ -106,6 +115,10 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+      <path value="$PROJECT_DIR$/barbershop" />
+    </ignored-roots>
   </component>
   <component name="WindowStateProjectService">
     <state x="372" y="69" key="#Inspections" timestamp="1630753350810">
@@ -132,17 +145,21 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="736" y="181" key="#com.intellij.ide.macro.MacrosDialog/0.0.1536.834@0.0.1536.834" timestamp="1630750338921" />
+    <state x="725" y="258" key="#com.intellij.tools.ToolEditorDialog" timestamp="1630757530265">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="725" y="258" key="#com.intellij.tools.ToolEditorDialog/0.0.1536.834@0.0.1536.834" timestamp="1630757530265" />
     <state x="406" y="168" width="1099" height="666" key="EditFileWatcherDialog" timestamp="1630751028763">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="406" y="168" width="1099" height="666" key="EditFileWatcherDialog/0.0.1536.834@0.0.1536.834" timestamp="1630751028763" />
-    <state x="548" y="193" key="FileChooserDialogImpl" timestamp="1630751083661">
+    <state x="548" y="193" key="FileChooserDialogImpl" timestamp="1630757677210">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="548" y="193" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1630751083661" />
-    <state x="465" y="118" key="SettingsEditor" timestamp="1630756549604">
+    <state x="548" y="193" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1630757677210" />
+    <state x="465" y="118" key="SettingsEditor" timestamp="1630760505173">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="465" y="118" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1630756549604" />
+    <state x="465" y="118" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1630760505173" />
   </component>
 </project>
